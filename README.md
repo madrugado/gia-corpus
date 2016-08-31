@@ -2,7 +2,7 @@
 Corpus of exam tests for 9-graders in Russia for NLP/ML purposes
 
 ## About contents
-The two types of files:  with or w/o "processed" tag. If "processed", so this text is alredy cleaned from the all other text, than questions and answers. Is there is no tag, so it is raw text content of PDF.
+The two folders with files: "raw" and "processed". If "processed", so this text is alredy cleaned from the all other text, than questions and answers.
 
 We're only using (mostly) first twenty multiple choice questions, since they have only one right answer.
 
@@ -16,5 +16,5 @@ Filename:
 
 For example, IS_2009.processed.txt
 
-## TODO 
-2010 год не доделан - проблема с форматом архивов
+## License
+Since the contents of this repo is scraped from PDFs from Russian Ministry of Education website and accrding to it the content of PDF is in public domain, so the license is *CC BY-NC*

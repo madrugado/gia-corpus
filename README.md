@@ -7,14 +7,15 @@ The two folders with files: "raw" and "processed". If "processed", so this text 
 We're only using (mostly) first twenty multiple choice questions, since they have only one right answer.
 
 ## Format
-Filename: 
+Subject tag is: 
  * GE - geography
  * OB - social studies
  * IS - history
 
- and year in YYYY format.
+
+and year is in YYYY format.
 
 For example, IS_2009.processed.txt
 
 ## License
-Since the contents of this repo is scraped from PDFs from Russian Ministry of Education website and accrding to it the content of PDF is in public domain, so the license is *CC BY-NC*
+Since the contents of this repo is scraped from PDFs from Russian Ministry of Education website and accrding to it the content of PDF is in public domain, so the license is *CC BY-NC*.

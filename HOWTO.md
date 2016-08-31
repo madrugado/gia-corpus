@@ -5,6 +5,7 @@ To parse all the years and all the study samples tou need to do this:
 (in the directory with files of particular subject and particular year)
 
 ```mutool poster -y 2 *techno.pdf out.pdf
+
 pdf2txt.py out.pdf >out.txt```
 
 The year 2009, 2011, 2013 and 2015 has no "techno" closing tag, so you need to find where is the actual tasks are (seems to be last file by alphabet).

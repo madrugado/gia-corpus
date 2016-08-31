@@ -18,4 +18,4 @@ and year is in YYYY format.
 For example, IS_2009.processed.txt
 
 ## License
-Since the contents of this repo is scraped from PDFs from Russian Ministry of Education website and accrding to it the content of PDF is in public domain, so the license is *CC BY-NC*.
+Since the contents of this repo is scraped from PDFs from Russian Ministry of Education website and according to it the content of PDF is in public domain, so the license is *CC BY-NC*.

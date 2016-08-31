@@ -2,7 +2,7 @@
 Corpus of exam tests for 9-graders in Russia for NLP/ML purposes
 
 ## About contents
-The two folders with files: "raw" and "processed". If "processed", so this text is alredy cleaned from the all other text, than questions and answers.
+The two folders with files: "raw" and "processed". If "processed", so this text is alredy cleaned from the all other text, than questions and answers. In "raw" folder there are text contents of PDFs without post-processing.
 
 We're only using (mostly) first twenty multiple choice questions, since they have only one right answer.
 

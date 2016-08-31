@@ -13,4 +13,5 @@ In addition year 2011 has only one PDF file, so for it the processing is simplie
 The year 2010 has problem with zip files: on Mac you cannot unzip it without The Unarchiver. https://itunes.apple.com/app/the-unarchiver/
 
 mutool is part of poppler-utils, you can download them here: https://poppler.freedesktop.org/
+
 pdf2txt.py is part of PDFMiner library, it could be installed as usual for python: '''pip install pdfminer'''

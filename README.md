@@ -6,6 +6,8 @@ The two folders with files: "raw" and "processed". If "processed", so this text 
 
 We're only using (mostly) first twenty multiple choice questions, since they have only one right answer.
 
+*UPD:* Added tsv folder with files in format compatible to Kaggle Allen AI Challenge (https://www.kaggle.com/c/the-allen-ai-science-challenge/data)
+
 ## Format
 Subject tag is: 
  * GE - geography
